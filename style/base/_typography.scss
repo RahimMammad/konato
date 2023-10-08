@@ -1,0 +1,25 @@
+* {
+    font-family: 'Jost', sans-serif;
+    font-size: 20px;
+}
+
+li a {
+    color: #ffffff;
+    font-size: 90%;
+    font-weight: 500;
+}
+
+li a:hover {
+    color: #00aeff;
+    border-bottom: 3px solid #00aeff;
+    transition-duration: 1s;
+}
+
+span {
+    font-size: 90%;
+    color: #ffffff;
+}
+
+button {
+    cursor: pointer;
+}
